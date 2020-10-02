@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Fractions
+comment0.text=\r\n\ Unit\ 2\ Project\r\n\ \r\n\ @author\ (Sydney\ Lohman_and_Taylor\ Thompson)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=num\ den
+comment1.target=Fractions(int,\ int)
+comment2.params=f1\ f2
+comment2.target=void\ Addition(Fractions,\ Fractions)
+comment3.params=f1\ f2
+comment3.target=void\ Subraction(Fractions,\ Fractions)
+comment4.params=f1\ f2
+comment4.target=void\ Multiplicaiton(Fractions,\ Fractions)
+comment5.params=f1\ f2
+comment5.target=void\ Divsion(Fractions,\ Fractions)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
